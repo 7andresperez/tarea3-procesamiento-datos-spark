@@ -1,0 +1,4 @@
+# Recomendado
+pyspark==3.5.1
+kafka-python==2.2.0
+pyyaml
